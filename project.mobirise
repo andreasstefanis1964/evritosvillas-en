@@ -52,7 +52,7 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/evritos-villas.png",
-    "mbrsiteDomain": "pdmk18k93c",
+    "mbrsiteDomain": "g2orxqlnyr",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -599,7 +599,7 @@
           "_anchor": "custom-html-y",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script defer async src='https://cdn.trustindex.io/loader.js?c35bfaa2545a348d0b86cbee44b'></script>"
+            "<script defer async src='https://cdn.trustindex.io/loader.js?b5838fb25a0835050976200f9b7'></script>"
           ]
         },
         {
