@@ -1027,6 +1027,11 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
+#custom-html-y .custom-html-y {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
 .cid-tWOx9KYcc4 {
   padding-top: 90px;
   padding-bottom: 45px;

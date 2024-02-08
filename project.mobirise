@@ -589,7 +589,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "[JS_CODE_0]",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 60px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 60px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n\n.custom-html-y {\n    max-width: 1140px;\n    margin: 0 auto;\n    padding: 0 1rem;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
