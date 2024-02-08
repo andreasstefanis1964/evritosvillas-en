@@ -1015,23 +1015,6 @@ section.lazy-placeholder:after {
     padding: 0 15px;
   }
 }
-#custom-html-y {
-  /* Type valid CSS here */
-}
-#custom-html-y div {
-  padding: 60px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-y p {
-  font-size: 60px;
-  color: #777;
-}
-#custom-html-y #custom-html-y {
-  max-width: 1140px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
 .cid-tWOx9KYcc4 {
   padding-top: 90px;
   padding-bottom: 45px;
