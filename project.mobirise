@@ -52,10 +52,10 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/evritos-villas.png",
-    "mbrsiteDomain": "kuc1txw91p",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "teydddzpqx",
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -79,7 +79,7 @@
       "rejectText": "REJECT"
     },
     "cookiesAlertType": "1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "mcSmartCart": {
@@ -92,7 +92,8 @@
       "themeColor": "#c19b76"
     },
     "pwa-switcher": true,
-    "global_header_custom": "<style>\n#mobiriseBanner { display: none; }\n</style>"
+    "global_header_custom": "<style>\n#mobiriseBanner { display: none; }\n</style>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
@@ -2710,6 +2711,24 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
+          "_params": {}
+        },
+        {
+          "alias": "eb-chats-widget",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-chats-widget",
+          "_sourceTheme": "hotelm4",
+          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
+          "_cid": "u7KpNjHuGE",
+          "_anchor": "eb-chats-widget-z",
+          "safe": {
+            "id": 25043,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2UhxBw3\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": "chat",
           "_params": {}
         }
       ]
