@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -101,7 +101,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Luxury Evritos Villas in Karpenisi for luxury vacations in Evrytania in Greece",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"uTGNo3kOaaIU3aKMh2UvrBENp_sFuVoZvBylpkQeH5o\" />",
         "footer_custom": "",
         "html_before": ""
       },
