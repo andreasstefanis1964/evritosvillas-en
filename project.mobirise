@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -2735,8 +2735,8 @@
     },
     "page1.html": {
       "settings": {
-        "title": "DE",
-        "meta_descr": "Luxury Evritos Villas in Karpenisi, Evrytania, Greece",
+        "title": "Willkommen zu den Luxusvillen Evritos mit Pool in Karpenisi",
+        "meta_descr": "Luxusurlaub mit Pool in Evritos Villas in der Bergregion Karpenisi in Griechenland",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
