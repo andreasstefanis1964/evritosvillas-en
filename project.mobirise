@@ -79,7 +79,7 @@
       "rejectText": "REJECT"
     },
     "cookiesAlertType": "1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "mcSmartCart": {
@@ -1930,23 +1930,6 @@
               }
             ]
           }
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/38d9121d79/karpenissi/\" data-label_1=\"KARPENISI\" data-label_2=\"WEATHER\" data-theme=\"original\">KARPENISI WEATHER</a>\n[JS_CODE_0]",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "hotelm4",
-          "_anchor": "custom-html-x",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');\n</script>"
-          ]
         },
         {
           "alias": false,
