@@ -52,7 +52,7 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/evritos-villas.png",
-    "mbrsiteDomain": "lxcfpyq2vd",
+    "mbrsiteDomain": "kvwrdibbcs",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -93,7 +93,7 @@
     },
     "pwa-switcher": true,
     "global_header_custom": "<style>\n#mobiriseBanner { display: none; }\n</style>",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<meta name=\"title\" content=\"EVRITOS LUXURY VILLAS & SUITES IN KARPENISI\">\n<meta name=\"description\" content=\"Luxury Evritos Villas with pool located in Karpenisi, Central Greece offers in three levels accommodation for up to 6 persons.\">\n<meta name=\"keywords\" content=\"Luxury Evritos villas with pool in Karpenisi\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n<meta name=\"revisit-after\" content=\"2 days\">\n<meta name=\"author\" content=\"Andreas Stefanis\">"
   },
   "pages": {
     "index.html": {

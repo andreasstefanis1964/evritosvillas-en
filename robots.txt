@@ -1,2 +1,11 @@
 User-agent: *
 Disallow: /cgi-bin
+
+<meta name="title" content="EVRITOS LUXURY VILLAS & SUITES IN KARPENISI">
+<meta name="description" content="Luxury Evritos Villas with pool located in Karpenisi, Central Greece offers in three levels accommodation for up to 6 persons.">
+<meta name="keywords" content="Luxury Evritos villas with pool in Karpenisi">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="revisit-after" content="2 days">
+<meta name="author" content="Andreas Stefanis">
